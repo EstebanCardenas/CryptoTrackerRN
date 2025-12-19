@@ -11,10 +11,15 @@ export default StyleSheet.create({
         alignItems: 'center',
         backgroundColor: 'white',
     },
+    header: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        margin: 16,
+    },
     title: {
         fontWeight: 'bold',
         fontSize: 24,
-        margin: 16,
     },
     separator: {
         height: 8,

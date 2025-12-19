@@ -9,5 +9,6 @@ export default StyleSheet.create({
     buttonText: {
         color: 'white',
         fontWeight: 300,
+        textAlign: 'center',
     },
 });

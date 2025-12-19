@@ -10,7 +10,7 @@ export default StyleSheet.create({
         alignItems: 'center',
         width: '100%',
         borderWidth: 1,
-        borderColor: 'gray'
+        borderColor: 'gray',
     },
     title: {
         fontWeight: 'bold',
@@ -26,5 +26,5 @@ export default StyleSheet.create({
     rightContainer: {
         flexDirection: 'row',
         alignItems: 'center',
-    }
+    },
 });
